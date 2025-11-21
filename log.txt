@@ -1,3 +1,4 @@
+497f322 task 2.4: extract total volume credits and total amount methods
 daf7594 task 2.3: remove frmt variable and extract usd method
 7ade902 Task 2.2: Extract volume credits calculation into getVolumeCredits method
 aafa297 Task 2.1: Extract switch statement logic into getAmount method
