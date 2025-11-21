@@ -1,5 +1,8 @@
 package theater;
 
+/**
+ * Class representing a play with a name and type.
+ */
 public class Play {
 
     private String name;
